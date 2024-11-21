@@ -1,3 +1,1 @@
-export const API_BASE_URL = "https://dackend-teste-backend.azuremicroservices.io/api"
-
-
+export const API_BASE_URL = "http://dackend-teste-backend.azuremicroservices.io/api"
